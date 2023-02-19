@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ashish-->
+    <!-- blue -->
+
+    <color name="colorPrimary">#0E9AFF</color>
+    <color name="colorPrimaryDark">#0E9AFF</color>
+    <color name="backgroundColor">#E0F4FF</color>
+    <color name="text_color">#0288e8</color>
+    <color name="top_grad_color">#0E9AFF</color>
+    <color name="bottom_grad_color">#0C85DD</color>
+    <color name="light_color_1">#F7FCFF</color>
+    <color name="light_color_2">#EFF9FF</color>
+    <color name="light_color_3">#E7F6FF</color>
+    <color name="light_color_4">#E0F4FF</color>
+    <color name="light_color_5">#D7F0FF</color>
+    <color name="light_color_6">#C6EAFF</color>
+    <color name="light_color_7">#B9E5FF</color>
+    <color name="light_color_8">#A2DCFF</color>
+    <color name="light_color_9">#8AD3FF</color>
+    <color name="light_color_10">#52BEFF</color>
+    <color name="light_color_11">#31B1FF</color>
+    <color name="light_color_12">#26ACFF</color>
+    <color name="light_color_dark_1">#E8D9F1</color>
+    <color name="pie_color_1">#2CB0FF</color>
+    <color name="pie_color_2">#69C7FF</color>
+    <color name="pie_color_3">#8DD4FF</color>
+    <color name="pie_color_4">#A8DEFF</color>
+    <color name="pie_color_5">#C9EAFF</color>
+
+
+    <!--Violet-->
+
+<!--    <color name="colorPrimary">#6A0EFF</color>-->
+<!--    <color name="colorPrimaryDark">#620EFF</color>-->
+<!--    <color name="backgroundColor">#E8E0FF</color>-->
+<!--    <color name="text_color">#4702E8</color>-->
+<!--    <color name="top_grad_color">#620EFF</color>-->
+<!--    <color name="bottom_grad_color">#5C0CDD</color>-->
+<!--    <color name="light_color_1">#FAF7FF</color>-->
+<!--    <color name="light_color_2">#F4EFFF</color>-->
+<!--    <color name="light_color_3">#F0E7FF</color>-->
+<!--    <color name="light_color_4">#ECE0FF</color>-->
+<!--    <color name="light_color_5">#E8D7FF</color>-->
+<!--    <color name="light_color_6">#DEC6FF</color>-->
+<!--    <color name="light_color_7">#D4B9FF</color>-->
+<!--    <color name="light_color_8">#BBA2FF</color>-->
+<!--    <color name="light_color_9">#B38AFF</color>-->
+<!--    <color name="light_color_10">#7752FF</color>-->
+<!--    <color name="light_color_11">#6F31FF</color>-->
+<!--    <color name="light_color_12">#7226FF</color>-->
+<!--    <color name="light_color_13">#4c00b0</color>-->
+<!--    <color name="light_color_dark_1">#E2D9F1</color>-->
+<!--    <color name="pie_color_1">#6B2CFF</color>-->
+<!--    <color name="pie_color_2">#9169FF</color>-->
+<!--    <color name="pie_color_3">#AB8DFF</color>-->
+<!--    <color name="pie_color_4">#C6A8FF</color>-->
+<!--    <color name="pie_color_5">#DCC9FF</color>-->
+
+
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_accent">#425066</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
+
+
+
+    <color name="colorAccent">#A65ECD</color>
+    <color name="edit_header_color">#746F6F</color>
+    <color name="edit_header_color_1">#746F6F</color>
+    <color name="light_green">#C3FFD2</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="colorBg">#CACCCF</color>
+    <color name="cp_300">#CF89F3</color>
+
+    <color name="dot_dark_screen1">#CEA100</color>
+    <color name="dot_dark_screen2">#CEA100</color>
+    <color name="dot_dark_screen3">#36b879</color>
+    <color name="dot_dark_screen4">#4b83c0</color>
+
+    <color name="dot_light_screen1">#ffc600</color>
+    <color name="dot_light_screen2">#ffc600</color>
+    <color name="dot_light_screen3">#5cdb9d</color>
+    <color name="dot_light_screen4">#92c6fe</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="shadow_transparent">#AE3C3C3C</color>
+    <color name="lite_black">#595959</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_light">#E2E2E2</color>
+    <color name="gray">#B5B5B5</color>
+    <color name="lite_gray">#E6E6E6</color>
+    <color name="green">#009B4C</color>
+    <color name="yellow">#FFDE39</color>
+    <color name="crm_open_color">#FF5370</color>
+    <color name="crm_close_color">#2ed8b6</color>
+    <color name="crm_pending_color">#FFB64D</color>
+    <color name="crm_oos_color">#CACCCF</color>
+    <color name="oval_blue">#00c0ff</color>
+    <color name="oval_orange">#f36400</color>
+    <color name="oval_red">#e80d0b</color>
+    <color name="progress_red">#eb5757</color>
+    <color name="dash_blue">#2A327D</color>
+    <color name="dash_red">#FE645A</color>
+    <color name="dash_yellow">#FFC107</color>
+    <color name="dash_green">#00C689</color>
+    <color name="card_start">#F9F4FF</color>
+    <color name="card_end">#DBC5FF</color>
+    <color name="card_center">#DDD4FF</color>
+    <color name="d_card_start">#F7F4FF</color>
+    <color name="d_card_end">#D6C5FF</color>
+    <color name="d_card_center">#DFD4FF</color>
+
+
+<!--    dark theme-->
+    <color name="colorPrimaryNight">#6A0EFF</color>
+    <color name="colorPrimaryDarkNight">#620EFF</color>
+    <color name="backgroundColorNight">#3E3E3E</color>
+    <color name="text_colorNight">#AF8DFF</color>
+    <color name="background_text">#DDF6E9</color>
+
+</resources>
+
+
+<!--
+
+unused colors
+
+ <color name="light_red_background">#FFF9F8</color>
+    <color name="light_yellow_background">#FFFEF4</color>
+    <color name="light_blue_background">#F7F8FF</color>
+ <color name="crm_total_color">#4099ff</color>
+     <color name="oval_green">#18b394</color>
+    <color name="edit_hint_color_1">#90979b</color>
+  <color name="btn_color">#fd93a1</color>
+    <color name="light_green_color">#14b921</color>
+       <color name="start_color">#fb597e</color>
+       <color name="colorShadow">#F4FCF4</color>
+          <color name="purple">#be97e6</color>
+            <color name="colorBg_1">#E8E9EC</color>
+             <color name="light_blue_50">#DAC7E4</color>
+    <color name="light_blue_200">#D1AFE3</color>
+    <color name="light_blue_600">#B87ADA</color>
+    <color name="light_blue_900">#9A4FC3</color>
+
+    <color name="colorPrimarySec">#77E6A4</color>
+    <color name="purple_100">#E0C4EF</color>
+    <color name="cp_shade">#7800b9</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="extraLightGray">#e6e6e6</color>
+    <color name="yello">#E8C902</color>
+     <color name="cp_400">#BD5EF1</color>
+    <color name="cp_200">#D6B4E8</color>
+    <color name="cp_700">#A615F4</color>
+    <color name="cp_600">#8A13CA</color>
+    <color name="cp_80">#BB58F1</color>
+    <color name="cp_60">#E4BDF8</color>
+    <color name="cp_70">#B03FEE</color>
+      <color name="green_200">#0E8C57</color>
+    <color name="txt_color">#009B4C</color>
+     <color name="white_light">#ffff</color>
+-->
